@@ -4,7 +4,7 @@ A cheat sheet repository for tests in Python.
 ## Using pytests
 First we need to install pytests using pip.
 
-# pytest markers
+## pytest markers
 
 - **Sources of tests**:
   - One script, by passing `script_name.py`
